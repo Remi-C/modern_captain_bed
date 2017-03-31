@@ -1,0 +1,25 @@
+			Cotes finies			Cotes brutes
+Ind	Nom	Nbre	Long	Larg	Ep.	Long	Larg	Ep.	
+[Wood_Floor_Light]
+1	socle	1	2322,6	1879,3	24,0	2372,6	1882,3	27,0	
+2	socle	7	2060,0	100,0	24,0	2110,0	103,0	27,0	
+3	cloison	2	1660,0	680,0	24,0	1710,0	683,0	27,0	
+4	cloison	27	780,0	100,0	24,0	830,0	103,0	27,0	
+5	Grouper#4	1	682,0	680,0	24,0	732,0	683,0	27,0	
+[Wood_Cherry_Original]
+6	traverse	11	2060,0	300,0	30,0	2110,0	303,0	33,0	
+7	tete_de_lit_24	4	1660,0	100,0	24,0	1710,0	103,0	27,0	
+8	Grouper#5	1	682,0	680,0	24,0	732,0	683,0	27,0	
+9	Grouper#6	1	682,0	680,0	24,0	732,0	683,0	27,0	
+10	cloion_exterieur_bas	1	512,0	145,0	10,0	562,0	148,0	13,0	
+[Wood_ Floor]
+11	Grouper#1	1	2060,0	1660,0	300,0	2110,0	1663,0	303,0	
+12	Grouper#2	1	1660,0	400,0	24,0	1710,0	403,0	27,0	
+Autres pieces
+13	cloison_inter_gd_b	2	780,0	100,0	24,0	
+14	cloison_inter	2	780,0	50,0	24,0	
+15	cloison_traverse_avt_arreire	1	582,0	50,0	24,0	
+16	traverse_avt_arreiere_stylisation	1	407,0	100,0	30,0	
+17	traverse_avant_arriere	1	2060,0	300,0	30,0	
+18	traverse_avt_arreiere_stylisation#1	1	434,3	100,0	30,0	
+19	Grouper#7	1	1660,0	680,0	24,0	
