@@ -18,9 +18,7 @@ warning : the original design documents are in french, I translated the essentia
 
 Here is a detailed presentation of this moder captain bed project.
 
-[Introductory presentation to the modern captain bed project](./presentation/modern_captain_bed_overall_presentation.pdf)
-
-[French version](./presentation/modern_captain_bed_overall_presentation_LQ_fr.pdf)
+[Introductory presentation to the modern captain bed project](./presentation/modern_captain_bed_overall_presentation.pdf) ([French version](./presentation/modern_captain_bed_overall_presentation_LQ_fr.pdf))
 
 
 ## 3D model
@@ -43,13 +41,27 @@ The design took several months as the project is mechanically complex to solve w
 Moreover, the dissassembled bed has to be easy to move and store.
 ![Disassembled bed](/images/space_occupancy_unassembled.JPG)
 
-
 The [Gallery](./images/design/Gallery.html) of pictures for design contains many pictures about this step
 
 ## Building
+The project was built in 6 months using evenings and week ends.
+Overall, the project can be completed with common woodworking tools.
+Mixing power tool and hand tool is also possible.
+[![hand tool](/images/mix_hand_and_machine.jpg)](./images/building/Gallery.html) 
+The gallery contains some pictures of the build process.
+
 ### build-book
+Beside the 3D model, the [build book](./building/build_book/modern_captain_bed_build_book.pdf) contains illustrated parts, nomenclature and measurements.
+See the build book [gallery](./images/build_booko_nomenclature/Gallery.html).
+
 ### template
+Some joins are duplicated heavily, which make them lenghty to draw on wood.
+We propose numerical templates to be used with router or  similar tools.
+![numerical templates](./images/template/example_template.png)
 
 ## Assembly##
-(in french)
- 
+### Pictures of assembly
+The main design advantage of this bed is the traditionnal joinery that allows full assembly / disassembly.
+As shown in the [bed assembly at home gallery](./images/bed_home_assembly/Gallery.html),
+
+
