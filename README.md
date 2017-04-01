@@ -1,12 +1,23 @@
 # Modern captain bed #
 
-![Image](./result/bed_assembly.gif)
+![Image]({{ site.url }}/result/bed_assembly.gif)
 
 ## Presentation ##
 
-warning : some french
-link to pdf of presentation 
+This is a re-design of captain bed in a modern fashion.
 
+The main design ideas :
+ - a nice wooden bed inspired by nautical captain bed
+ - massive amount of storage (about 2 m3!)
+ - Massive wood, traditionnal joinery for strength and durability
+ - fully dismountable into small pieces (one person carry)
+ - Can be build with reasonnably common tools/
+ 
+ 
+warning : the original design documents are in french, I translated the essential parts
+
+Here is a detailed presentation of this moder captain bed project
+[Introductory presentation to the modern captain bed project]({{ site.url }}/presentation/modern_captain_bed_overall_presentation.pdf)
 
 
 ## 3D model
