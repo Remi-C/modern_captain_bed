@@ -1,6 +1,6 @@
 # Modern captain bed #
 
-![Image]({{ site.url }}/result/bed_assembly.gif)
+![Image](./result/bed_assembly.gif)
 
 ## Presentation ##
 
@@ -17,7 +17,7 @@ The main design ideas :
 warning : the original design documents are in french, I translated the essential parts
 
 Here is a detailed presentation of this moder captain bed project
-[Introductory presentation to the modern captain bed project]({{ site.url }}/presentation/modern_captain_bed_overall_presentation.pdf)
+[Introductory presentation to the modern captain bed project](./presentation/modern_captain_bed_overall_presentation.pdf)
 
 
 ## 3D model
