@@ -59,9 +59,15 @@ Some joins are duplicated heavily, which make them lenghty to draw on wood.
 We propose numerical templates to be used with router or  similar tools.
 ![numerical templates](./images/template/example_template.png)
 
-## Assembly##
-### Pictures of assembly
-The main design advantage of this bed is the traditionnal joinery that allows full assembly / disassembly.
-As shown in the [bed assembly at home gallery](./images/bed_home_assembly/Gallery.html),
 
+## Assembly##
+The main design advantage of this bed is the traditionnal joinery that allows full assembly / disassembly.
+### Pictures of assembly
+As shown in the assembly galleries, assembling bed is straightforward.
+[![assembling bed at home](./images/bed_home_assembly/assembling_bed (1).JPG)](./images/bed_home_assembly/Gallery.html)
+[![assembling bed at woodshop](./images/bed_at_woodshop/assembly_at_woodshop (1).JPG)](./images/bed_at_woodshop/Gallery.html)
+
+### Moving the bed
+The bed can be dissassembled into small parts, such that no part is longuer than 2 meters, larger than 40 cm, and of more than 10 cm of thickness.
+[![Moving the bed](./images/bed_home_moving/moving_bed (6).JPG)](./images/bed_home_moving/Gallery.html)
 
