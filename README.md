@@ -16,13 +16,15 @@ The main design ideas :
  
 warning : the original design documents are in french, I translated the essential parts
 
-Here is a detailed presentation of this moder captain bed project
+Here is a detailed presentation of this moder captain bed project.
+
 [Introductory presentation to the modern captain bed project](./presentation/modern_captain_bed_overall_presentation.pdf)
+
+[French version](./presentation/modern_captain_bed_overall_presentation_LQ_fr.pdf)
 
 
 ## 3D model
-
- 
+A conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
 
 <div class="sketchfab-embed-wrapper"><iframe width="800" height="600" src="https://sketchfab.com/models/c7bc11224e4042eab323be94998c2b65/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
@@ -33,8 +35,8 @@ Here is a detailed presentation of this moder captain bed project
 </p>
 </div>
 
-insert viewer
 link to 3D file
+[Go to `3D_model` for 3D model !](./3D_model/modern_captain_bed.dae)
 
 ## Design
 
