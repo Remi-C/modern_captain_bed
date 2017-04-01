@@ -41,10 +41,10 @@ link to 3D file
 ## Design
 The design took several months as the project is mechanically complex to solve with traditionnal joinery wihtout loosing storage space.
 Moreover, the dissassembled bed has to be easy to move and store.
-[Disassembled bed](./images/space_occupancy_unassembled.JPG)
+![Disassembled bed](/images/space_occupancy_unassembled.JPG)
 
 
-The [Gallery](./images/design/Galery.html) of pictures for design contains many pictures about this step
+The [Gallery](./images/design/Gallery.html) of pictures for design contains many pictures about this step
 
 ## Building
 ### build-book
