@@ -1,6 +1,6 @@
 # Modern captain bed #
 
-![Image](./images/bed_assembly.gif)
+![Image](./images/bed_assembly_lq.gif)
 
 ## Presentation ##
 
