@@ -23,7 +23,7 @@ Here is a detailed presentation of this moder captain bed project.
 
 ## 3D model
 A conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
-_*click on 3D model to change view*_
+**click on 3D model to change view**
 <div class="sketchfab-embed-wrapper"><iframe width="800" height="600" src="https://sketchfab.com/models/c7bc11224e4042eab323be94998c2b65/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
