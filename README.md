@@ -83,7 +83,8 @@ As shown in the assembly galleries, assembling bed is straightforward.
 
 ### Moving the bed
 The bed can be dissassembled into small parts, such that no part is longuer than 2 meters, larger than 40 cm, and of more than 10 cm of thickness.
-
+Furthermore, each part is light enough to be carreid  by one person.
+Overall, the bed dissassembled easily fit into a 2m x 1m x 0.3 m space. 
 **clik on image to see other images**
 [![Moving the bed](./images/bed_home_moving/moving_bed (6).JPG)](./images/bed_home_moving/Gallery.html)
 
