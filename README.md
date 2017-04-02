@@ -47,7 +47,7 @@ The gallery of pictures for design contains many pictures about the design step.
 The most recent version of the project design dimension are :
 
 **Clik on image to see other images**
-[![overal dimension](/images/overal_dimension/lit_au_dim_lean (1).JPG)](./images/overal_dimension/Gallery.html)
+[![overal dimension](./images/overal_dimension/lit_au_dim_lean (1).JPG)](./images/overal_dimension/Gallery.html)
 
 ## Building
 The project was built in 6 months using evenings and week ends.
