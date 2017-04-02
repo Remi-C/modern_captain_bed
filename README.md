@@ -32,16 +32,14 @@ A conceptual 3D model, simplified (no joinery, no handles, simplified textures, 
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
-
-link to 3D file
+ 
 [Go to `3D_model` for 3D model !](./3D_model/modern_captain_bed.dae)
 
 ## Design
 The design took several months as the project is mechanically complex to solve with traditionnal joinery wihtout loosing storage space.
 Moreover, the dissassembled bed has to be easy to move and store.
-![Disassembled bed](/images/space_occupancy_unassembled.JPG)
-
-The [Gallery](./images/design/Gallery.html) of pictures for design contains many pictures about this step
+[![Disassembled bed](/images/design/general_2.png)](./images/design/Gallery.html)
+The gallery of pictures for design contains many pictures about the design step.
 
 ## Building
 The project was built in 6 months using evenings and week ends.
@@ -52,7 +50,8 @@ The gallery contains some pictures of the build process.
 
 ### build-book
 Beside the 3D model, the [build book](./building/build_book/modern_captain_bed_build_book.pdf) contains illustrated parts, nomenclature and measurements.
-See the build book [gallery](./images/build_booko_nomenclature/Gallery.html).
+
+See the build book [[gallery](./images/build_book_nomenclature/A_1.png)](./images/build_booko_nomenclature/Gallery.html).
 
 ### template
 Some joins are duplicated heavily, which make them lenghty to draw on wood.
