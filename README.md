@@ -62,7 +62,7 @@ The gallery contains some pictures of the build process.
 Beside the 3D model, the [build book](./building/build_book/modern_captain_bed_build_book.pdf) contains illustrated parts, nomenclature and measurements.
 
 **clik on image to see other images**
-[![gallery](./images/build_book_nomenclature/A_1.png)](./images/build_booko_nomenclature/Gallery.html).
+[![gallery](./images/build_book_nomenclature/A_1.png)](./images/build_book_nomenclature/Gallery.html).
 
 ### template
 Some joins are duplicated heavily, which make them lenghty to draw on wood.
