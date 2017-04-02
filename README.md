@@ -38,9 +38,13 @@ _*click on 3D model to change view*_
 ## Design
 The design took several months as the project is mechanically complex to solve with traditionnal joinery wihtout loosing storage space.
 Moreover, the dissassembled bed has to be easy to move and store.
-*_clik on image to see other images*_
+**Clik on image to see other images**
 [![Disassembled bed](/images/design/general_2.png)](./images/design/Gallery.html)
 The gallery of pictures for design contains many pictures about the design step.
+
+The most recent version of the project design dimension are :
+**Clik on image to see other images**
+[![overal dimension](/images/overal_dimension/lit_au_dim_lean (1).JPG)](./images/overal_dimension/Gallery.html)
 
 ## Building
 The project was built in 6 months using evenings and week ends.
