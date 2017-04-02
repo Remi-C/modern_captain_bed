@@ -46,13 +46,13 @@ The gallery of pictures for design contains many pictures about the design step.
 The project was built in 6 months using evenings and week ends.
 Overall, the project can be completed with common woodworking tools.
 Mixing power tool and hand tool is also possible.
-*_clik on image to see other images*_
+**clik on image to see other images**
 [![hand tool](/images/mix_hand_and_machine.jpg)](./images/building/Gallery.html) 
 The gallery contains some pictures of the build process.
 
 ### build-book
 Beside the 3D model, the [build book](./building/build_book/modern_captain_bed_build_book.pdf) contains illustrated parts, nomenclature and measurements.
-*_clik on image to see other images*_
+**clik on image to see other images**
 [[gallery](./images/build_book_nomenclature/A_1.png)](./images/build_booko_nomenclature/Gallery.html).
 
 ### template
@@ -65,13 +65,13 @@ We propose numerical templates to be used with router or  similar tools.
 The main design advantage of this bed is the traditionnal joinery that allows full assembly / disassembly.
 ### Pictures of assembly
 As shown in the assembly galleries, assembling bed is straightforward.
-*_clik on image to see other images*_
+**clik on image to see other images**
 [![assembling bed at home](./images/bed_home_assembly/assembling_bed (1).JPG)](./images/bed_home_assembly/Gallery.html)
-*_clik on image to see other images*_
+**clik on image to see other images**
 [![assembling bed at woodshop](./images/bed_at_woodshop/assembly_at_woodshop (1).JPG)](./images/bed_at_woodshop/Gallery.html)
 
 ### Moving the bed
 The bed can be dissassembled into small parts, such that no part is longuer than 2 meters, larger than 40 cm, and of more than 10 cm of thickness.
-*_clik on image to see other images*_
+**clik on image to see other images**
 [![Moving the bed](./images/bed_home_moving/moving_bed (6).JPG)](./images/bed_home_moving/Gallery.html)
 
